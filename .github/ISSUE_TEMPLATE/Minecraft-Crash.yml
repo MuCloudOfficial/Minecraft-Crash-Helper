@@ -22,8 +22,7 @@ body:
         __HMCL 启动器（最新 V3.5.5）: 进入游戏后会直接提示更新__  
       options:
        - label: 我确保自己的启动器正处于最新版本
-    validations:
-      required: true
+         required: true
 
   - type: textarea
     attributes:
