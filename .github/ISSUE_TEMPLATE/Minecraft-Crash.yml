@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         __！！！关于 PCL2 启动器而非 Minecraft 内的问题请移步 PCL2 问题反馈！！！__  
-        [PCL2 问题反馈]()
+        [PCL2 问题反馈](https://github.com/MuCloudOfficial/Minecraft-Crash-Helper/issues/new?assignees=&labels=PCL-Problem&projects=&template=PCL-Problem.yml&title=%5BPCL+%E5%90%AF%E5%8A%A8%E5%99%A8%E9%97%AE%E9%A2%98%5D%3A+)
         
         __感谢对项目的支持与关注。在提出问题之前，请确保你已查看项目主页的文档__  
         [主页文档](https://github.com/MuCloudOfficial/Minecraft-Crash-Helper/blob/master/README.md)
