@@ -6,11 +6,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        __！！！关于 PCL2 启动器而非 Minecraft 内的问题请移步 PCL2 问题反馈！！！__
-        - https://gitee.com/MuCloudOfficial/minecraft-crashed/issues/new?template=issue_template.yml
+        __！！！关于 PCL2 启动器而非 Minecraft 内的问题请移步 PCL2 问题反馈！！！__  
+        [PCL2 问题反馈]()
         
-        __感谢对项目的支持与关注。在提出问题之前，请确保你已查看文档__
-        - https://gitee.com/MuCloudOfficial/minecraft-crashed/blob/dev-origin/README.md
+        __感谢对项目的支持与关注。在提出问题之前，请确保你已查看项目主页的文档__  
+        [主页文档](https://github.com/MuCloudOfficial/Minecraft-Crash-Helper/blob/master/README.md)
 
         __！！！请仔细阅读每项的描述后提交，这样可以更快确定问题并提供解决方案！！！__
 
@@ -22,7 +22,8 @@ body:
         __HMCL 启动器（最新 V3.5.5）: 进入游戏后会直接提示更新__  
       options:
        - label: 我确保自己的启动器正处于最新版本
-         required: true
+    validations:
+      required: true
 
   - type: textarea
     attributes:
